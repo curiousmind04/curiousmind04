@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/brandon-bhangari-25a3a3154/">Brandon</a> 👋</h2>
 
 - 🔭 I’m currently working on learning to code
-- 🌱 I’m currently learning React
+- 🌱 I’m currently creating React portfolio projects
 - 🥅 2023 Goals: Get my first job as a programmer!
 - ⚡ Fun fact: I love mountain hiking
 
