@@ -4,6 +4,7 @@
 - 🌱 I’m currently creating React portfolio projects
 - 🥅 2023 Goals: Get my first job as a programmer!
 - ⚡ Fun fact: I love mountain hiking
+- 📫 You can reach me at bhangari1994@gmail.com
 
 ### Connect with me:
 
