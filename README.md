@@ -30,5 +30,6 @@
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](http://img.shields.io/badge/firebase-%23FFCB2B.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 [linkedin]: https://www.linkedin.com/in/brandon-bhangari-25a3a3154/
