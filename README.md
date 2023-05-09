@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/brandon-bhangari-25a3a3154/">Brandon</a> 👋</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/brandon-bhangari/">Brandon</a> 👋</h2>
 
 - 🔭 I’m currently working on expanding and honing my web development skills
 - 🌱 I’m currently creating React portfolio projects
@@ -33,4 +33,4 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
 
-[linkedin]: https://www.linkedin.com/in/brandon-bhangari-25a3a3154/
+[linkedin]: https://www.linkedin.com/in/brandon-bhangari/
