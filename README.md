@@ -8,6 +8,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="https://brandonbhangari.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -33,4 +34,5 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
 
+[website]: https://brandonbhangari.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brandon-bhangari/
