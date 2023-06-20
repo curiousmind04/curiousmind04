@@ -35,11 +35,11 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousmind04&show_icons=true&theme=blue-green&locale=en" alt="brandonbhangari" /></p>
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousmind04&show_icons=true&theme=blue-green&locale=en)](https://github.com/curiousmind04/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmind04)](https://github.com/curiousmind04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmind04&layout=compact)](https://github.com/curiousmind04/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousmind04&" alt="brandonbhangari" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=curiousmind04)](https://git.io/streak-stats)
 
 [website]: https://brandonbhangari.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brandon-bhangari/
