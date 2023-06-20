@@ -37,6 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousmind04&show_icons=true&theme=blue-green&locale=en" alt="brandonbhangari" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousmind04)](https://github.com/curiousmind04/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousmind04&" alt="brandonbhangari" /></p>
 
 [website]: https://brandonbhangari.netlify.app/
