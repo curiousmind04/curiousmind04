@@ -35,5 +35,7 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousmind04&show_icons=true&theme=tokyonight&locale=en" alt="brandonbhangari" /></p>
+
 [website]: https://brandonbhangari.netlify.app/
 [linkedin]: https://www.linkedin.com/in/brandon-bhangari/
