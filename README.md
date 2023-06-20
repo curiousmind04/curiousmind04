@@ -8,14 +8,14 @@
 - 🚀 My Portfolio: https://brandonbhangari.netlify.app/
 
 ### Connect with me:
-<div align="center">
-  [<img align="left" alt="https://brandonbhangari.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-    
-  iconic/master/svg/globe.svg" />][website]
-  [<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] 
-  [linkedin]
-  [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-  generator/master/src/images/icons/Social/leet-code.svg" alt="Brandon Bhangari" width="22px" height="22px" />][leetcode]
-</div>
+
+[<img align="left" alt="https://brandonbhangari.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-
+iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Brandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] 
+[linkedin]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+generator/master/src/images/icons/Social/leet-code.svg" alt="Brandon Bhangari" width="22px" height="22px" />][leetcode]
+
 
 
 <br />
