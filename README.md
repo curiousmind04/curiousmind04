@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/brandon-bhangari/">Brandon</a> 👋</h2>
+<h2>Hi there, nice to see you. I'm <a href="https://www.linkedin.com/in/brandon-bhangari/">Brandon</a> 👋</h2>
 
 - 🔭 I’m currently working on expanding and honing my web development skills
 - 🌱 I’m currently creating React portfolio projects
