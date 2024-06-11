@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on expanding and honing my web development skills
 - 🌱 I’m currently creating React portfolio projects
-- 🥅 2023 Goals: Get my first job as a programmer!
+- 🥅 2024 Goals: Grow at my first job as a programmer!
 - ⚡ Fun fact: I love mountain hiking
 - 📫 You can reach me at bhangari1994@gmail.com
 - 🚀 My Portfolio: https://brandonbhangari.netlify.app/
